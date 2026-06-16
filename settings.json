@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Pannotitest.aternos.me",
-    "port": 50107,
+    "ip": "PannotiSMPMain.aternos.me",
+    "port": 38112,
     "version": "",
     "try-creative": false
   },
